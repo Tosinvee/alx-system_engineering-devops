@@ -1,1 +1,1 @@
-0x00 shell basics
+0x03,shell, init files, variables and expansions
