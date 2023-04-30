@@ -1,0 +1,10 @@
+#!/bin/usr/env bash
+#Bash script that displayed "Best School" 10 times
+
+count=o
+
+utill [ count -eq 10 ]
+do
+   echo "Best School"
+   (( count++ ))
+done
